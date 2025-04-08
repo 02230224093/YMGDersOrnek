@@ -72,3 +72,6 @@ pipeline {
 11. Şimdi yapılandıra bas ve çalıştır daha sonra localhost verdiğin porta gidip bak.
 12.Ngrok orda olan tokeni al reponun ayarlar yerine git , github webhook yap payload url yerine yapıştır . 
 13. Artık pipelineyi kendisi yapılandırıp çalıştıracak.
+
+
+git bash de ngrok için ngrok http portnumarası bir dene belki olur.
