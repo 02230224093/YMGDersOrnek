@@ -74,4 +74,4 @@ pipeline {
 13. Artık pipelineyi kendisi yapılandırıp çalıştıracak.
 
 
-git bash de ngrok için ngrok http portnumarası bir dene belki olur.
+git bash de ngrok için ngrok http portnumarası bir dene belki olur..
